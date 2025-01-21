@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danny-Batalha
 - 👀 I’m interested in become a programmer!!!
-- 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas...
+- 🌱 I’m currently learning Systems Analysis and Development...
 - 💞️ I’m looking to collaborate on share knowledge.
 - 📫 How to reach me by email "daniellybatalha@hotmail.com"
 
